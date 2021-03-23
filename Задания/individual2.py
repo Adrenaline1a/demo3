@@ -10,6 +10,7 @@ else:
     sek=h*3600+m*60+s
 if sek==0:
     ygol=0
-else: ygol=360*sek/43200
-print(ygol)
+else:
+    ygol=360*sek/43200
+    print(ygol)
 
