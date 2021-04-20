@@ -1,7 +1,7 @@
 
 # C extensions
 *.so
-
+.idea
 # Distribution / packaging
 build/
 develop-eggs/
