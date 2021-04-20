@@ -13,4 +13,3 @@ if sek==0:
 else:
     ygol=360*sek/43200
     print(ygol)
-
